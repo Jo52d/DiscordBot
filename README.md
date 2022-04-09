@@ -1,6 +1,6 @@
 # DiscordBot
 
-Un bot Discord crée juste pour le fun, sans grand intérêt
+Un bot Discord crée juste pour le fun, sans grand intérêt. 
 Il réagit à des commandes écrites en se connectant à un salon vocal et jouant un meme correspondant à la commande
 
 
